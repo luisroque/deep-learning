@@ -1,2 +1,2 @@
 # deep-learning
-Deep Learning related notebooks
+Deep Learning related stuff
